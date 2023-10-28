@@ -1,0 +1,19 @@
+.neparni {
+  background-color: red;
+}
+
+.parni {
+  color: yellow;
+}
+
+.clasic {
+  height: 50px;
+  width: 50px;
+  background-color: green;
+  border-bottom: 1px solid white;
+}
+
+.errorBorder {
+  background-color: red;
+  border: 1px solid black;
+}
